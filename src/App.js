@@ -4,7 +4,7 @@ import Card from './components/Card';
 import Loader from './assets/loader.gif';
 import SearchIcon from './assets/search-icon-small.png';
 
-export default function App() {
+function App() {
 
   //Setting State
   const [query, setQuery] = useState('')
@@ -78,3 +78,5 @@ export default function App() {
       </div>
     )
 }
+
+export default App;
