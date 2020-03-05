@@ -1,4 +1,6 @@
-# highspot-coding-exercise
+# Highspot-coding-exercise
+ElderScrolls Legends
+This exercise will once installed connect to an api and retieve 20 cards at a time, while also allowing the user to search for cards by name.
 This is a coding exercise given by Highspot and completed by Tracy Shelton
 
 # Prerequisites
@@ -24,18 +26,13 @@ git clone https://github.com/Tracysshelton/highspot-coding-exercise
 # Application setup
 Open a command prompt, and navigate (cd) to the highspot-coding-exercise directory.
 
-Type the following command to create a package.json file:
-
-npm init
-Press the Return key in response to all the questions to accept the default values.
-
 Type the following command to install the react and react-dom modules:
 
-npm install react react-dom
+**npm install react react-dom**
 
 Type the following command to install the axios:
 
-npm install axios
+**npm install axios**
 
 # Build
 On the command line, make sure you are in the highspot-coding-exercise directory, type **npm start**.
