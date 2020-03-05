@@ -24,6 +24,19 @@ git clone https://github.com/Tracysshelton/highspot-coding-exercise
 # Application setup
 Open a command prompt, and navigate (cd) to the highspot-coding-exercise directory.
 
+Type the following command to create a package.json file:
+
+npm init
+Press the Return key in response to all the questions to accept the default values.
+
+Type the following command to install the react and react-dom modules:
+
+npm install react react-dom
+
+Type the following command to install the axios:
+
+npm install axios
+
 # Build
 On the command line, make sure you are in the highspot-coding-exercise directory, type **npm start**.
 
