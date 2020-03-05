@@ -2,7 +2,7 @@ import React, { useState, useRef, useCallback } from 'react';
 import CardSearch from './components/CardSearch';
 import Card from './components/Card';
 import Loader from './components/assets/loader.gif';
-import searchIcon from '..components/assets/search-icon-small.png';
+import SearchIcon from './components/assets/search-icon-small.png';
 
 export default function App() {
 
@@ -45,7 +45,7 @@ export default function App() {
         {/* Search */}
         <label className="search" htmlFor="search-input">
           <input type="text" vaule={query} placeholder="Search for Card by Name..." onChange={handleSearch} />
-          <img src={searchIcon} className={`search-icon`} alt="search" />
+          <img src={SearchIcon} className={`search-icon`} alt="search" />
         </label>
         {/* Card Grid */}
         <div className="cards-container">
