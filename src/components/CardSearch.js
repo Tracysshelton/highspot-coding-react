@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import './Card.css';
 
-export default function CardSearch(query, pageNumber) {
+function CardSearch(query, pageNumber) {
 
 	//Setting states
 	const [loading, setLoading] = useState(true)
@@ -41,3 +41,5 @@ export default function CardSearch(query, pageNumber) {
 	}, [query, pageNumber])
 	return { loading, error, cards, hasMore}
 }
+
+export default CardSearch;
