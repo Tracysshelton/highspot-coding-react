@@ -1,10 +1,10 @@
 # highspot-coding-exercise
 This is a coding exercise given by Highspot and completed by Tracy Shelton
 
-#Prerequisites
+# Prerequisites
 
-#Installation
+# Installation
 
-#Application setup
+# Application setup
 
-#Build
+# Build
