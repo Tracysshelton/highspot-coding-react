@@ -17,7 +17,14 @@ Mobile
 - **iOS**
 
 # Installation
+Clone the highspot-coding-exercise repository:
+
+git clone https://github.com/Tracysshelton/highspot-coding-exercise
 
 # Application setup
+Open a command prompt, and navigate (cd) to the highspot-coding-exercise directory.
 
 # Build
+On the command line, make sure you are in the highspot-coding-exercise directory, type npm **start**
+
+Open index.html in your browser and test the application
