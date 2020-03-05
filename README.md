@@ -1,6 +1,8 @@
 # Highspot-coding-exercise
-ElderScrolls Legends
+**Elder Scrolls Legends**
+
 This exercise will once installed connect to an api and retieve 20 cards at a time, while also allowing the user to search for cards by name.
+
 This is a coding exercise given by Highspot and completed by Tracy Shelton
 
 # Prerequisites
