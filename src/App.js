@@ -1,8 +1,8 @@
 import React, { useState, useRef, useCallback } from 'react';
 import CardSearch from './components/CardSearch';
 import Card from './components/Card';
-import Loader from './assets/loader.gif';
-import searchIcon from './assets/search-icon-small.png';
+import Loader from './components/assets/loader.gif';
+import searchIcon from '..components/assets/search-icon-small.png';
 
 export default function App() {
 
