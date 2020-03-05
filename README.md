@@ -21,7 +21,7 @@ Mobile
 - **iOS**
 
 # Installation
-Clone the highspot-coding-exercise repository:
+Clone the Highspot-coding-exercise repository:
 
 git clone https://github.com/Tracysshelton/highspot-coding-exercise
 
