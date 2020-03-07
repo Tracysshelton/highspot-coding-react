@@ -41,13 +41,4 @@ On the command line, make sure you are in the highspot-coding-exercise directory
 
 Open http://localhost:3000 in your browser and test the application.
 
-Or 
-
-On the command line, make sure you are in the highspot-exercise directory, type **npm run-script build**
-
-Install serve type, **npm install -g serve**
-
-then start serve type **serve -s build**
-
-Open http://localhost:3000 in your browser.
 
