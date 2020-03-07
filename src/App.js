@@ -4,7 +4,7 @@ import Card from './components/Card';
 import Loader from './assets/loader.gif';
 import SearchIcon from './assets/search-icon-small.png';
 
-function App() {
+const App = props => {
 
   //Setting State
   const [query, setQuery] = useState('')
