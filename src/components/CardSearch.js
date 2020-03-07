@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import './Card.css';
 
-function CardSearch(query, pageNumber) {
+const CardSearch = (query, pageNumber) => {
 
 	//Setting states
 	const [loading, setLoading] = useState(true)
