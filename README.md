@@ -1,4 +1,4 @@
-# Highspot-coding-exercise
+# Highspot-coding
 **Elder Scrolls Legends**
 
 This exercise will, once installed, connect to an api in order to retieve and display 20 cards at a time, with information given about the card, while also allowing the user to search for cards by name.
