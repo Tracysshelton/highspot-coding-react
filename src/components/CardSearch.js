@@ -20,6 +20,7 @@ const CardSearch = (query, pageNumber) => {
 		setError(false)
 		let cancel
 		//Retrieving data calling to api
+		// as of dec 12 2023 the api is under going some maintenance
 		axios({
 			method: 'GET',
 			url: `https://api.elderscrollslegends.io/v1/cards?pageSize=20`,
